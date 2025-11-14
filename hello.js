@@ -1,4 +1,3 @@
-// Hello World in JavaScript
 console.log('Hello, World!');
 
 function greet(name) {
